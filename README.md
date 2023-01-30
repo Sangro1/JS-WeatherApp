@@ -15,3 +15,4 @@ Weather Application which uses the Open Weather Map API in Java Script to create
 ###How it works
 When we enter the name of country, city
 Currunt temprature, Humidity, Pressure, description
+![Screenshot 2023-01-30 181012](https://user-images.githubusercontent.com/87020382/215479914-c53b1edf-692e-4197-afec-fe6c2c6c60ec.png)
